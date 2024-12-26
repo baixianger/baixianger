@@ -14,4 +14,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-            USERNAME: xiang-bai
+          USERNAME: xiang-bai
