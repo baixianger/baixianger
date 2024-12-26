@@ -5,7 +5,8 @@
 
 <br>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0495e811-8eb8-4245-84f9-988f898c412d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <!---
 baixianger/baixianger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
