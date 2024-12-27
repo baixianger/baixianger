@@ -6,18 +6,18 @@
 <br>
 
 <p align="center">
-  <img src="./badges/meta generalist.jpg" width="50" title="meta generalist software developer">
+  <img src="./badges/meta generalist.jpg" width="100" title="meta generalist software developer">
   <span>  </span>
-  <img src="./badges/meta full stack.jpg" width="50" alt="accessibility text">
+  <img src="./badges/meta full stack.jpg" width="100" alt="accessibility text">
   <br/>
   
-  <img src="./badges/meta ios.jpg" width="50" alt="accessibility text">
+  <img src="./badges/meta ios.jpg" width="100" alt="accessibility text">
   <span>  </span>
-  <img src="./badges/meta front end.jpg" width="50" alt="accessibility text">
+  <img src="./badges/meta front end.jpg" width="100" alt="accessibility text">
   <span>  </span>
-  <img src="./badges/meta back end.jpg" width="50" alt="accessibility text">
+  <img src="./badges/meta back end.jpg" width="100" alt="accessibility text">
   <span>  </span>
-  <img src="./badges/meta database.jpg" width="50" alt="accessibility text">
+  <img src="./badges/meta database.jpg" width="100" alt="accessibility text">
 </p>
 
 
