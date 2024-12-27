@@ -28,7 +28,7 @@
 </p>
 
 
-<p>
+<p align="center">
   <a href="">
     <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="150">
   </a>
@@ -36,16 +36,16 @@
     <img src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/twitter_thumb_201604_image.png" width="150">
   </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/baixianger/9F182E1E1D1DED55?sharingId=FC7085BF4336274B">
-    <img src="https://images.credly.com/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png" width="150">
+    <img src="https://images.credly.com/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/twitter_thumb_201604_azure-data-scientist-associate-600x600.png" width="150">
   </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/baixianger/8CB5F5941B515C58?sharingId=FC7085BF4336274B">
     <img src="https://images.credly.com/images/61542181-0e8d-496c-a17c-3d4bf590eda1/twitter_thumb_201604_azure-data-engineer-associate-600x600.png" width="150">
   </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/baixianger/9BF06961AFA5AC9A?sharingId=FC7085BF4336274B">
-    <img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/linkedin_thumb_azure-administrator-associate-600x600.png" width="150">
+    <img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/twitter_thumb_201604_azure-administrator-associate-600x600.png" width="150">
   </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/baixianger/225ACDC56776F4AF?sharingId=FC7085BF4336274B">
-    <img src="https://images.credly.com/images/92e0618b-8002-4868-9e88-794a33aeb3b5/azure-developer-associate-600x600.png" width="150">
+    <img src="https://images.credly.com/images/63316b60-f62d-4e51-aacc-c23cb850089c/twitter_thumb_201604_azure-developer-associate-600x600.png" width="150">
   </a>
 </p>
 
