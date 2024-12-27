@@ -6,18 +6,21 @@
 <br>
 
 <p align="center">
-  <img src="./badges/meta generalist.jpg" width="100" title="meta generalist software developer">
-  <span>  </span>
-  <img src="./badges/meta full stack.jpg" width="100" alt="accessibility text">
-  <br/>
-  
-  <img src="./badges/meta ios.jpg" width="100" alt="accessibility text">
-  <span>  </span>
-  <img src="./badges/meta front end.jpg" width="100" alt="accessibility text">
-  <span>  </span>
-  <img src="./badges/meta back end.jpg" width="100" alt="accessibility text">
-  <span>  </span>
-  <img src="./badges/meta database.jpg" width="100" alt="accessibility text">
+  <a href="https://www.credly.com/badges/04fba620-0216-44dc-a694-0b38aec0d96e/public_url">
+    <img src="./badges/meta ios.jpg" width="150" title="Meta iOS Developer Certificate">
+  </a>
+  <span> </span>
+  <a href="https://www.credly.com/badges/99000ceb-7950-403f-a0d1-a634bcbebd07/public_url">
+    <img src="./badges/meta front end.jpg" width="150" title="Meta Front-End Developer Certificate">
+  </a>
+  <span> </span>
+  <a href="https://www.credly.com/badges/6f6d30e1-13be-4857-947c-526390343518/public_url">
+    <img src="./badges/meta back end.jpg" width="150" title="Meta Back-End Developer Certificate">
+  </a>
+  <span> </span>
+  <a href="https://www.credly.com/badges/20c41e0e-efc9-43a1-b501-8371f6cc744e/public_url">
+    <img src="./badges/meta database.jpg" width="150" title="Meta Database Engineer Certificate">
+  </a>
 </p>
 
 
