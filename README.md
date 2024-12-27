@@ -6,6 +6,10 @@
 <br>
 
 <p align="center">
+  <img src="./badges/meta generalist.jpg" width="150" title="meta generalist software developer">
+  <span>  </span>
+  <img src="./badges/meta full stack.jpg" width="150" alt="accessibility text">
+  <span>  </span>
   <a href="https://www.credly.com/badges/04fba620-0216-44dc-a694-0b38aec0d96e/public_url">
     <img src="./badges/meta ios.jpg" width="150" title="Meta iOS Developer Certificate">
   </a>
