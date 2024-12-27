@@ -5,8 +5,11 @@
 
 <br>
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<p align="center">
+  <img src="./badges/meta generalist.jpg" width="350" title="meta generalist software developer">
+  <img src="./badges/meta full stack.jpg" width="350" alt="accessibility text">
+</p>
+
 
 <!---
 baixianger/baixianger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
